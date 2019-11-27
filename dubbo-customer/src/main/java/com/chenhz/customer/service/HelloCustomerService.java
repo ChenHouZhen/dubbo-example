@@ -1,6 +1,6 @@
 package com.chenhz.customer.service;
 
-public interface CustomerService {
+public interface HelloCustomerService {
 
     void callKnowledgeProvider();
 }
